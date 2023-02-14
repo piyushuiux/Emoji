@@ -1,0 +1,23 @@
+Body {
+  font-family: sans-serif;
+  text-align: center;
+  background: rgb(220, 250, 255);
+  margin: 70px;
+}
+.heading {
+  background: rgb(100, 218, 222);
+  width: auto;
+  color: rgb(246, 246, 246);
+  padding: 20px;
+}
+.card {
+  max-width: 300px;
+  min-width: 300px;
+  height: 250px;
+  background: white;
+  padding: 10px;
+  box-shadow: 0 1px 10px rgb(182, 182, 182);
+  margin: 70px;
+  float: left;
+  width: 33.33%;
+}
